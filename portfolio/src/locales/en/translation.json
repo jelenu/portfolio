@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "projects": "Projects",
+  "skills": "Skills",
+  "presentation": "Hello, I'm Jesús, fullstack developer who turns ideas into code.",
+  "work": "Check my work",
+  "languages":"Programming languages",
+  "technologies":"Technologies and Tools",
+  "softSkills": [
+    "High problem-solving ability",
+    "Self-directed learning",
+    "High adaptability",
+    "Effective teamwork",
+    "Passion for web development"
+  ]
+}

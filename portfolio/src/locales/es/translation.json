@@ -1,0 +1,16 @@
+{
+  "home": "Incio",
+  "projects": "Projectos",
+  "skills": "Habilidades",
+  "presentation": "Hola, soy Jesús, fullstack developer que convierte ideas en código.",
+  "work": "Check my work",
+  "languages": "Lenguajes de programacion",
+  "technologies": "Tecnologías y Herramientas",
+  "softSkills": [
+    "Alta capacidad resolutiva",
+    "Aprendizaje autodirigido",
+    "Alta capacidad de adaptación",
+    "Trabajo en equipo efectivo",
+    "Pasión por el desarrollo web"
+  ]
+}
